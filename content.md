@@ -78,34 +78,34 @@ count: false
     * **Open Educational Resources**: Methodology and tools; licensing issues
     * **Citizen Science**: Connecting professional and non-professional scientific contexts
     * **Open Science practices**: Advisory programme for Horizon Europe applications
-    * **Science communication**: Scientific blogging; predatory journals; good scientific practice
+    * **Science communication**: Scientific blogging; predatory journals; academic identity management
 
 ---
 
 # Advisory and educational services
 
-- Talks, e.g. at
+- **Talks**, e.g. at
     * International Open Access Week
     * Graduate Academy
     * Lessons in Open Science
-- Individual advice, e.g. at
+- **Individual advice**, e.g. at
     * SLUB Knowledge Bar
     * Subject librarians
     * SLUB Helpdesk
-- Self-study materials on
-    * YouTube
-    * Opal
+- **Self-study materials** on
+    * [YouTube](https://www.youtube.com/user/slubdresden)
+    * [Opal](https://bildungsportal.sachsen.de/opal/auth/repository/catalog/548470806;jsessionid=1E37A405717942198827CEFF6E38A0D8.opalN5)
 
 ---
 
 # Advisory and educational services
 
 - In cooperation with academic partners at TUD (and beyond)
-    * Service Center Research Data
-    * Centre for Interdisciplinary Learning and Teaching (ZiLL)
-    * European Project Center
-    * Open Science Initiative
-    * SaxFDM
+    * [Service Center Research Data](https://tu-dresden.de/forschung-transfer/services-fuer-forschende/kontaktstelle-forschungsdaten)
+    * [Centre for Interdisciplinary Learning and Teaching (ZiLL)](https://tu-dresden.de/tu-dresden/organisation/rektorat/prorektor-bildung/zill)
+    * [European Project Center](https://tu-dresden.de/forschung-transfer/services-fuer-forschende/european-project-center)
+    * [Open Science Initiative](https://tu-dresden.de/mn/psychologie/die-fakultaet/open-science)
+    * [SaxFDM](https://saxfdm.de/)
     * ...
 
 ---
@@ -168,10 +168,10 @@ count: false
 
 # Icon for the importance of Open Science
 
-- Free and unrestricted access to knowledge and information as a key factor for **equal opportunities**
+- Free and unrestricted access to knowledge and information as a key factor for **equal opportunities** and **maximal scientific progress**
 - Open Science is a worldwide movement
     * UNESCO: “human right to share in scientific advancement and its benefits”
-    * Recommendation on Open Science
+    * [Recommendation on Open Science](https://www.unesco.org/en/natural-sciences/open-science)
 - Establishing an Open Science Lab → **Strong sign of support** for this movement
 
 ---
@@ -192,9 +192,12 @@ count: false
 
 ---
 
-class: part-slide
-
 # Many thanks for your attention!
+
+- Contact: [openscience@slub-dresden.de](mailto:openscience@slub-dresden.de)
+- More information: [OSL Blog](https://osl.hypotheses.org/)
+- Save the date: 8th October 2022
+
 
 <center>
 <a href="https://wrznr.github.io/os-hybrid-lab-2022/">wrznr.github.io/os-hybrid-lab-2022</a>
