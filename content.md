@@ -179,7 +179,7 @@ count: false
 # Icon for the importance of Open Science
 
 <center>
-<img src="img/os_infl.png" width="700px"/>
+<img src="img/os_infl.png" width="800px"/>
 </center>
 
 ---
