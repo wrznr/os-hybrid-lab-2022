@@ -69,10 +69,126 @@ count: false
     * **Open Data**: (Meta-)Data formats; repositories; technical workflows
     * **Open Methodology**: Pregistration and registered reports; Open Science Framework
     * **Open Evaluation**: Bibliometric analyses for optimized outreach and objective impact estimation
+
+---
+
+# Advisory and educational services
+
 - Services in an openness ecosystem
     * **Open Educational Resources**: Methodology and tools; licensing issues
-    * **Citizen Science**:
+    * **Citizen Science**: Connecting professional and non-professional scientific contexts
+    * **Open Science practices**: Advisory programme for Horizon Europe applications
     * **Science communication**: Scientific blogging; predatory journals; good scientific practice
+
+---
+
+# Advisory and educational services
+
+- Talks, e.g. at
+    * International Open Access Week
+    * Graduate Academy
+    * Lessons in Open Science
+- Individual advice, e.g. at
+    * SLUB Knowledge Bar
+    * Subject librarians
+    * SLUB Helpdesk
+- Self-study materials on
+    * YouTube
+    * Opal
+
+---
+
+# Advisory and educational services
+
+- In cooperation with academic partners at TUD (and beyond)
+    * Service Center Research Data
+    * Centre for Interdisciplinary Learning and Teaching (ZiLL)
+    * European Project Center
+    * Open Science Initiative
+    * SaxFDM
+    * ...
+
+---
+
+class: part-slide
+count: false
+
+# Work, event and meeting place
+
+---
+
+# Work, event and meeting place
+
+- Grand opening originally planned for 2020
+- Interim at Zellescher Weg 21 (*zell21*)
+
+.cols[
+.fifty[
+<center>
+<img src="http://photos.wikimapia.org/p/00/00/51/72/45_big.jpg" width="350px"/>
+</center>
+]
+.fifty[
+<center>
+<img src="img/zell21.png" width="350px"/>
+</center>
+]
+]
+
+---
+
+# Work, event and meeting place
+
+.cols[
+.fifty[
+- Mixture of bookable and freely usable workplaces
+- Three larger event rooms
+    + OSL 1: up to 70 p.
+    + OSL 2 & 3: up to 30 p.
+    + Each with flexible furniture
+- Open Science Desk
+- Technical equipment for hybrid events
+    + Projectors, digital whiteboards
+    + Mobile cameras, microphones, speakers etc.
+- **Kitchen**
+]
+.fifty[
+<img src="img/floor_plan.png" width="350px"/>
+]
+]
+
+---
+
+class: part-slide
+count: false
+
+# Icon for the importance of Open Science
+
+---
+
+# Icon for the importance of Open Science
+
+- Free and unrestricted access to knowledge and information as a key factor for **equal opportunities**
+- Open Science is a worldwide movement
+    * UNESCO: “human right to share in scientific advancement and its benefits”
+    * Recommendation on Open Science
+- Establishing an Open Science Lab → **Strong sign of support** for this movement
+
+---
+
+# Icon for the importance of Open Science
+
+<center>
+<img src="img/os_infl.png" width="500px"/>
+</center>
+
+---
+
+# Icon for the importance of Open Science
+
+<center>
+<img src="img/why.svg" width="500px"/>
+</center>
 
 ---
 
