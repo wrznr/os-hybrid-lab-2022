@@ -74,18 +74,18 @@ count: false
 .cols[
 .fifty[
 - Support of an open scientific culture central part of [SLUB strategy](https://nbn-resolving.org/urn:nbn:de:bsz:14-qucosa2-357501)
+    ]
+.fifty[
+<center>
+<img src="img/os_comp.png" width="300px"/>
+</center>
+]
+]
 - Services around an open research cycle
     * **Open Access**: Financing and licensing issues; publication infrastructure
     * **Open Data**: (Meta-)Data formats; repositories; technical workflows
     * **Open Methodology**: Pregistration and registered reports; Open Science Framework
     * **Open Evaluation**: Bibliometric analyses for optimized outreach and objective impact estimation
-    ]
-.fifty[
-<center>
-<img src="img/os_comp.png" width="350px"/>
-</center>
-]
-]
 
 ---
 
@@ -98,7 +98,7 @@ count: false
     * **Science communication**: Scientific blogging; predatory journals; academic identity management
 
 <center>
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Openness-creates-engagement.jpg/1024px-Openness-creates-engagement.jpg" width="500px"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Openness-creates-engagement.jpg/1024px-Openness-creates-engagement.jpg" width="350px"/>
 </center>
 
 ---
@@ -130,7 +130,7 @@ count: false
     * ...
 
 <center>
-<img src="img/collaboration.png" width="300px"/>
+<img src="img/collaboration.jpg" width="300px"/>
 </center>
 
 ---
@@ -199,12 +199,12 @@ count: false
 - Open Science is a worldwide movement
     * UNESCO: “human right to share in scientific advancement and its benefits”
     * [Recommendation on Open Science](https://www.unesco.org/en/natural-sciences/open-science)
-- Establishing an Open Science Lab → **Strong sign of support** for this movement
 ]
 .fifty[
-<img src="img/unesco.png" width="350px"/>
+<img src="img/unesco.png" width="300px"/>
 ]
 ]
+- Establishing an OSL → **Strong sign of support** for this movement
 
 ---
 
