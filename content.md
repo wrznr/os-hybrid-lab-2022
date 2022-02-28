@@ -101,8 +101,6 @@ count: false
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Openness-creates-engagement.jpg/1024px-Openness-creates-engagement.jpg" width="500px"/>
 </center>
 
-    
-
 ---
 
 # Advisory and educational services
