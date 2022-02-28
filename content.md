@@ -73,7 +73,8 @@ count: false
 
 .cols[
 .fifty[
-- Support of an open scientific culture central part of [SLUB strategy](https://nbn-resolving.org/urn:nbn:de:bsz:14-qucosa2-357501)
+- Support of an open scientific culture central part of
+  [SLUB strategy](https://nbn-resolving.org/urn:nbn:de:bsz:14-qucosa2-357501)
     ]
 .fifty[
 <center>
@@ -98,7 +99,7 @@ count: false
     * **Science communication**: Scientific blogging; predatory journals; academic identity management
 
 <center>
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Openness-creates-engagement.jpg/1024px-Openness-creates-engagement.jpg" width="350px"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Openness-creates-engagement.jpg/1024px-Openness-creates-engagement.jpg" width="300px"/>
 </center>
 
 ---
@@ -130,7 +131,7 @@ count: false
     * ...
 
 <center>
-<img src="img/collaboration.jpg" width="300px"/>
+<img src="img/collaboration.jpg" width="350px"/>
 </center>
 
 ---
@@ -204,7 +205,9 @@ count: false
 <img src="img/unesco.png" width="300px"/>
 ]
 ]
-- Establishing an OSL → **Strong sign of support** for this movement
+<span style="display:block; margin-left:-20px;">
+Establishing an OSL → **Strong sign of support** for this movement
+</span>
 
 ---
 
