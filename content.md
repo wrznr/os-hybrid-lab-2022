@@ -205,7 +205,7 @@ count: false
 <img src="img/unesco.png" width="300px"/>
 ]
 ]
-<span style="display:block; margin-left:-20px;" />
+<span style="display:block; margin-left:-40px;" /> </span>
 - Establishing an OSL → **Strong sign of support** for this movement
 
 ---
