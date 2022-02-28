@@ -42,6 +42,14 @@ count: false
 
 ---
 
+# Why Open Science?
+
+<center>
+<img src="img/why.svg" width="500px"/>
+</center>
+
+---
+
 # Overview
 
 1. Bundling of advisory and educational **services** to support an open research cycle
@@ -63,12 +71,21 @@ count: false
 
 # Advisory and educational services
 
+.cols[
+.fifty[
 - Support of an open scientific culture central part of [SLUB strategy](https://nbn-resolving.org/urn:nbn:de:bsz:14-qucosa2-357501)
 - Services around an open research cycle
     * **Open Access**: Financing and licensing issues; publication infrastructure
     * **Open Data**: (Meta-)Data formats; repositories; technical workflows
     * **Open Methodology**: Pregistration and registered reports; Open Science Framework
     * **Open Evaluation**: Bibliometric analyses for optimized outreach and objective impact estimation
+    ]
+.fifty[
+<center>
+<img src="img/os_comp.png" width="350px"/>
+</center>
+]
+]
 
 ---
 
@@ -107,6 +124,10 @@ count: false
     * [Open Science Initiative](https://tu-dresden.de/mn/psychologie/die-fakultaet/open-science)
     * [SaxFDM](https://saxfdm.de/)
     * ...
+
+<center>
+<img src="img/collaboration.png" width="300px"/>
+</center>
 
 ---
 
@@ -168,11 +189,18 @@ count: false
 
 # Icon for the importance of Open Science
 
+.cols[
+.fifty[
 - Free and unrestricted access to knowledge and information as a key factor for **equal opportunities** and **maximal scientific progress**
 - Open Science is a worldwide movement
     * UNESCO: “human right to share in scientific advancement and its benefits”
     * [Recommendation on Open Science](https://www.unesco.org/en/natural-sciences/open-science)
 - Establishing an Open Science Lab → **Strong sign of support** for this movement
+]
+.fifty[
+<img src="img/unesco.png" width="350px"/>
+]
+]
 
 ---
 
@@ -180,14 +208,6 @@ count: false
 
 <center>
 <img src="img/os_infl.png" width="800px"/>
-</center>
-
----
-
-# Icon for the importance of Open Science
-
-<center>
-<img src="img/why.svg" width="500px"/>
 </center>
 
 ---
